@@ -1,0 +1,39 @@
+{
+    15: TreeNode{val: 15, left: None, right: None
+    },
+    20: TreeNode{val: 15, left: TreeNode{val: 15, left: None, right: None
+        }, right: TreeNode{val: 17, left: None, right: None
+        }
+    },
+    17: TreeNode{val: 17, left: None, right: None
+    },
+    50: TreeNode{val: 20, left: TreeNode{val: 15, left: TreeNode{val: 15, left: None, right: None
+            }, right: TreeNode{val: 17, left: None, right: None
+            }
+        }, right: TreeNode{val: 80, left: TreeNode{val: 19, left: None, right: None
+            }, right: None
+        }
+    },
+    80: TreeNode{val: 80, left: TreeNode{val: 19, left: None, right: None
+        }, right: None
+    },
+    19: TreeNode{val: 19, left: None, right: None
+    }
+}
+
+{
+    2: TreeNode{val: 2, left: None, right: TreeNode{val: 3, left: TreeNode{val: 4, left: None, right: None
+            }, right: None
+        }
+    },
+    1: TreeNode{val: 2, left: TreeNode{val: 2, left: None, right: TreeNode{val: 3, left: TreeNode{val: 4, left: None, right: None
+                }, right: None
+            }
+        }, right: None
+    },
+    3: TreeNode{val: 3, left: TreeNode{val: 4, left: None, right: None
+        }, right: None
+    },
+    4: TreeNode{val: 4, left: None, right: None
+    }
+}
